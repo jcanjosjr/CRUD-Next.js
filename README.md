@@ -1,34 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">SPA - CRUD com NextJS.</h1>
+<p align="center">:snowflake: Fazendo uma SPA com TypeScript e NextJS!</p>
 
-## Getting Started
+Projeto com intuito de conhecer o FrameWork da biblioteca React, Next.js, ótimo para renderização ao lado do servidor, além disso, foi meu primeiro contato com tailwindcss um otimizador de CSS para ser aplicado diretamente na linguagem de marcação.
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+No Backend da aplicação foi utilizado o DB Firebase da google, os dados são armazenados como JSON e sincronizados com a aplicação, ótimo BAAS com estrutura pronta e rápida implementação, perfeito para testar projetos e estudar frameworks frontend em funcionamento. 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+As seguintes ferramentas foram usadas na construção do projeto:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- [TypeScript v4.4.2](https://www.typescriptlang.org/)
+- [firebase v7.6.2](https://console.firebase.google.com/)
+- [Tailwind CSS v2.2.9](https://devdocs.io/css/)
+- [NodeJS v16.8.0](https://nodejs.org/en/download/releases/)
+- [React v16.7.0](https://reactjs.org/)
+- [Next.JS v11.1](https://nextjs.org/)
+- [asdf](https://asdf-vm.com/)
